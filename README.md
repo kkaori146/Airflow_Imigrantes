@@ -7,4 +7,4 @@
 
 ## Fonte
 
-    url = https://portaldeimigracao.mj.gov.br/pt/#� �A�i�r�f�l�o�w�_�I�m�i�g�r�a�n�t�e�s�
+    url = https://portaldeimigracao.mj.gov.br/pt/
