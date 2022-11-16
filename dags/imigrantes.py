@@ -58,7 +58,7 @@ def total_paises():
 
 # Função para inserir dados na tabela sql a partir do dataset tratado
 def inserir_dados_sql():
-  dfinal = pd.read_csv('dadostratados/pesquisa/total_imigrantes.csv')
+  dfinal = pd.read_csv('dadostratados/pesquisa/total_imigrantes.csv', sep=',')
   valores = []
   for i in range(len(dfinal)):    
     status_migratorio = dfinal.iloc[i,0]
@@ -66,10 +66,10 @@ def inserir_dados_sql():
     total_de_imigrantes = dfinal.iloc[i,2]
     valores.append("('%s', '%s', %s)" %(status_migratorio, pais, total_de_imigrantes))
 
-    values = str(valores).strip('[]')
-    values = values.replace('"', '')
-    query = "INSERT INTO TB_IMIGRANTES(status_migratorio, pais, total_de_imigrantes) VALUES %s;" %(values)
-    return query
+  values = str(valores).strip('[]')
+  values = values.replace('"', '')
+  query = "INSERT INTO TB_IMIGRANTES(status_migratorio, pais, total_de_imigrantes) VALUES %s;" %(values)
+  return query
 
 
 
