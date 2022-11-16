@@ -15,33 +15,35 @@ __https://portaldeimigracao.mj.gov.br/pt/__
 
 - Implementação das modificações no docker-compose.yaml (PostgreSQL)
 
-docker-compose up -d --no-deps --build postgres
+**__$\textcolor{darkgreen}{\text{docker-compose up -d --no-deps --build postgres}}$__**
 
 - Solucionando problema no import do PostgresOperator no VsCode
 
-pip install 'apache-airflow[postgres]
+**__$\textcolor{darkgreen}{\text{pip install 'apache-airflow[postgres]}}$__**
 
 - Inicialização rápida do Airflow
 
-docker-compose up airflow-init
+**__$\textcolor{darkgreen}{\text{docker-compose up airflow-init}}$__**
 
 - Implementação das modificações feitas no arquivo de extensão .py e docker-compose.yaml
 
-docker-compose up
+**__$\textcolor{darkgreen}{\text{docker-compose up}}$__**
 
 - Para todos os serviços associados à configuração do docker-compose que estão rodando
 
-docker-compose down
-
-![dependencias](https://user-images.githubusercontent.com/83531935/202231169-2b93ed3d-0db9-492c-b0a7-6a5d64f43006.png)
-![pg4](https://user-images.githubusercontent.com/83531935/202231177-9ab74fa2-712f-4cbe-9cf9-c1435d1af5ad.png)
+**__$\textcolor{darkgreen}{\text{docker-compose down}}$__**
 
 ## Apache Airflow
 
 - Dependências
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83531935/202231169-2b93ed3d-0db9-492c-b0a7-6a5d64f43006.png" width=1000px > </div>
 
 
-##PostgreSQL
+## PostgreSQL
 
 - Vista geral dos Resultados
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83531935/202231177-9ab74fa2-712f-4cbe-9cf9-c1435d1af5ad.png" width=1000px > </div>
