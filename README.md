@@ -5,6 +5,9 @@
 - Análise preliminar do dataset sobre imigração no Brasil (2022)
 - Exportação do resultado da subpasta pesquisa para o PostgreSQL
 
+## Tecnologias empregadas
+
+
 ## Fonte
 
 - Portal de Imigração (Ministério da Justiça e Segurança Pública)
@@ -46,4 +49,4 @@ __https://portaldeimigracao.mj.gov.br/pt/__
 - Vista geral dos Resultados
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/83531935/202231177-9ab74fa2-712f-4cbe-9cf9-c1435d1af5ad.png" width=1000px > </div>
+<img src="https://user-images.githubusercontent.com/83531935/202238571-53c7cd48-ec88-48c5-b0e5-80424727d334.png" width=1000px > </div>
