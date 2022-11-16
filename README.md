@@ -33,6 +33,9 @@ docker-compose up
 
 docker-compose down
 
+![dependencias](https://user-images.githubusercontent.com/83531935/202231169-2b93ed3d-0db9-492c-b0a7-6a5d64f43006.png)
+![pg4](https://user-images.githubusercontent.com/83531935/202231177-9ab74fa2-712f-4cbe-9cf9-c1435d1af5ad.png)
+
 ## Apache Airflow
 
 - Dependências
