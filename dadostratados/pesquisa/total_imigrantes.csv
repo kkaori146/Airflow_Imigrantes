@@ -1,59 +1,59 @@
-0
-1
-3
-5
-1
-3
-2
-35
-2
-5
-5
-2
-1
-1
-1
-4
-1
-1
-10
-3
-2
-29
-5
-1
-15
-4
-7
-2
-2
-1
-1
-2
-1
-1
-3
-1
-28
-1
-2
-1
-2
-3
-1
-30
-9
-1
-1
-1
-1
-1
-2
-50
-1
-1
-3
-1
-1
-1
-23
+status_migratorio,pais,total_de_imigrantes
+Fronteiriço,NATURALIDADE BRASILEIRA,1
+Permanente,ARGENTINA,3
+Permanente,BOLÍVIA,5
+Permanente,CHILE,1
+Permanente,COLÔMBIA,3
+Permanente,EGITO,2
+Permanente,HAITI,35
+Permanente,MARROCOS,2
+Permanente,NATURALIDADE BRASILEIRA,5
+Permanente,PARAGUAI,5
+Permanente,PERU,2
+Permanente,ROMÊNIA,1
+Permanente,SUÍÇA,1
+Permanente,SÍRIA,1
+Permanente,VENEZUELA,4
+Refugiado/Solicitante de Refúgio,ANGOLA,1
+Refugiado/Solicitante de Refúgio,CUBA,1
+Refugiado/Solicitante de Refúgio,HAITI,10
+Refugiado/Solicitante de Refúgio,NATURALIDADE BRASILEIRA,3
+Refugiado/Solicitante de Refúgio,SENEGAL,2
+Refugiado/Solicitante de Refúgio,VENEZUELA,29
+Sem Informação,AFEGANISTÃO,5
+Sem Informação,ALBÂNIA,1
+Sem Informação,ARGENTINA,15
+Sem Informação,ARÁBIA SAUDITA,4
+Sem Informação,BOLÍVIA,7
+Sem Informação,CHINA,2
+Sem Informação,COLÔMBIA,2
+Sem Informação,CORÉIA DO NORTE,1
+Sem Informação,COSTA DO MARFIM,1
+Sem Informação,CUBA,2
+Sem Informação,EGITO,1
+Sem Informação,ESPANHA,1
+Sem Informação,ESTADOS UNIDOS,3
+Sem Informação,GUINÉ BISSAU,1
+Sem Informação,HAITI,28
+Sem Informação,HOLANDA,1
+Sem Informação,ITÁLIA,2
+Sem Informação,IÊMEN,1
+Sem Informação,JAPÃO,2
+Sem Informação,LÍBANO,3
+Sem Informação,MÉXICO,1
+Sem Informação,NATURALIDADE BRASILEIRA,30
+Sem Informação,PARAGUAI,9
+Sem Informação,PORTUGAL,1
+Sem Informação,REINO UNIDO,1
+Sem Informação,REPÚBLICA DOMINICANA,1
+Sem Informação,RÚSSIA,1
+Sem Informação,SÍRIA,1
+Sem Informação,URUGUAI,2
+Sem Informação,VENEZUELA,50
+Temporário,ESPANHA,1
+Temporário,ESTADOS UNIDOS,1
+Temporário,HAITI,3
+Temporário,NATURALIDADE BRASILEIRA,1
+Temporário,NORUEGA,1
+Temporário,PORTUGAL,1
+Temporário,VENEZUELA,23

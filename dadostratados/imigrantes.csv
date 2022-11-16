@@ -1,4 +1,4 @@
-Competência,País,UF,Município,Categoria,Sexo,Nível de Instrução,Salário,Faixa Etária,Carga Horária do Contrato,Status Migratório
+competencia,pais,uf,municipio,categoria,sexo,nivel_instrucao,salario,faixa_etaria,carga_horaria_do_contrato,status_migratorio
 202001,BOLÍVIA,11,110010,101,3,4,"1128,00",5,6,Permanente
 202001,VENEZUELA,13,130260,101,1,4,"112500,00",3,7,Temporário
 202001,VENEZUELA,13,130260,101,1,4,"1128,15",4,5,Sem Informação
