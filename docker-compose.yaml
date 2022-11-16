@@ -69,6 +69,7 @@ x-airflow-common:
     - ./dadosbrutos:/opt/airflow/dadosbrutos
     - ./dadostratados:/opt/airflow/dadostratados
     - ./dadostratados/pesquisa:/opt/airflow/dadostratados/pesquisa
+    - ./sql:/opt/airflow/sql
     
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
