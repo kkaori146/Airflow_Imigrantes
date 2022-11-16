@@ -17,4 +17,6 @@ __https://portaldeimigracao.mj.gov.br/pt/__
 
 docker-compose up -d --no-deps --build postgres
 
-- Inicia
+- Solucionando problema no import do PostgresOperator
+
+pip install 'apache-airflow[postgres]
