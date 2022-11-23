@@ -1,7 +1,8 @@
 # Projeto Imigrantes
 
 
-- Projeto que visa testar os conhecimentos adquiridos em Apache Airflow
+- Projeto visa extrair os dados de um arquivo zipado com Apache Airflow
+- Tratamento dos dados
 - Análise preliminar do dataset sobre imigração no Brasil (2022)
 - Exportação do resultado da subpasta pesquisa para o PostgreSQL
 
